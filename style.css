@@ -1,0 +1,30 @@
+.gordon {
+    width: 650px;
+    height: auto;
+}
+
+.laksa {
+    width: 650px;
+    height: auto;
+}
+
+.chicken.rice {
+    width: 650px;
+    height:auto;
+}
+
+.lasagna {
+    width:650px;
+    height:auto;
+}
+
+h2 {
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+
+.description {
+    font-family:'Courier New', Courier, serif;
+    font-size: 24px;
+}
